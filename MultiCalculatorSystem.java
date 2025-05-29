@@ -7,6 +7,15 @@ import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.List;
 
+//comprog project number 1
+//Velasco Lorenz Gabriel - framework, stats calculator and business calculator
+
+//Charles Justin Glorioso - basic calculator
+
+//Marc Daniel Gabrillio - unit conversion
+
+//Remier Kundiman - scientific calculator 
+
 
 public class MultiCalculatorSystem extends JFrame {
     
